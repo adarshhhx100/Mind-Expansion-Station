@@ -8,3 +8,4 @@
 5. Machine learning hyperparameter optimization with Argo - https://www.canva.dev/blog/engineering/machine-learning-hyperparameter-optimization-with-argo/
 6. Journey to the Stack - https://manybutfinite.com/post/journey-to-the-stack/
 7. How to apply for jobs and Open source contribution - https://www.youtube.com/watch?v=ilQSmBpd6jQ
+8. Why 0!=1 - https://youtu.be/X32dce7_D48?si=U-JpWMh_Mbhs5KDh
