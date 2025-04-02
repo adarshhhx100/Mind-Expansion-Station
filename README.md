@@ -14,5 +14,5 @@
 11. Nim Champ - https://en.wikipedia.org/wiki/Nim
 12. A Fenwick tree - https://en.wikipedia.org/wiki/Fenwick_tree
 13. Combinatorial Games - https://web.stanford.edu/class/cs97si/05-combinatorial-games.pdf
-14. 
+14. Mathematics - https://web.stanford.edu/class/cs97si/02-mathematics.pdf
 
