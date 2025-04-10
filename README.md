@@ -11,9 +11,4 @@
 8. Why 0!=1 - https://youtu.be/X32dce7_D48?si=U-JpWMh_Mbhs5KDh
 9. It only takes two weeks - https://youtu.be/sZ60bY2pJfo?si=cs5KfpgG4dZ11QuP
 10. Sprague–Grundy theorem - https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem
-11. Nim Champ - https://en.wikipedia.org/wiki/Nim
-12. A Fenwick tree - https://en.wikipedia.org/wiki/Fenwick_tree
-13. Combinatorial Games - https://web.stanford.edu/class/cs97si/05-combinatorial-games.pdf
-14. Mathematics - https://web.stanford.edu/class/cs97si/02-mathematics.pdf
-15. Plan your 6 months - https://youtu.be/4XVvbZj794o?si=2r5OLASh-fuBSrM2
 
